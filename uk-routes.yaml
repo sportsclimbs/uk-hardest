@@ -1,6 +1,7 @@
 Hubble
  grade: 9a
  year: 1990
+ crag: Raven Tor
  ascents:
   - Ben Moon
       ascent: first
@@ -36,6 +37,7 @@ Hubble
 Liquid Ambar
   grade: 8c+
   year: 1990
+  crag: Lower Pen Trwyn
   ascents:
   - Jerry Moffatt
       ascent: first
@@ -54,6 +56,7 @@ Liquid Ambar
 Sea of Tranquillity
   grade: 8c/+
   year: 1993
+  crag: Lower Pen Trwyn
   ascents:
   - Ben Moon
       ascent: first
@@ -73,6 +76,7 @@ Progress
   grade: 8c+
 	info: "Due to the loss of some holds in 1997, Steve McClure upgraded the climb from 8c to 8c+ following his ascent in 2006." https://www.ukclimbing.com/news/2016/06/progress_8c+_for_jon_freeman-70535
   year:
+  crag: Kilnsey
   ascents:
   - Jerry Moffatt
       ascent: first
@@ -85,7 +89,7 @@ Progress
       date: 2006
   - Chris Savage
       ascent: fourth
-      date: 
+      date: July 2011
   - Alex Megos
       ascent: fifth
       date: 2016
@@ -103,6 +107,7 @@ Progress
 Evolution
   grade: 8c+
   year: 1995
+  crag: Raven Tor
   ascents:
   - Jerry Moffatt
       ascent: first
@@ -141,8 +146,9 @@ Evolution
       date: Sept 2019
 
 Total Eclipse
-  grade: 
+  grade: 8c+
   year: 1995
+  crag: Malham Cove
   ascents:
   - John Dunne
       ascent: first
@@ -151,6 +157,7 @@ Total Eclipse
 The Bastard
   grade: 8c+
   year: 1995
+  crag: Rubicon Wall
   note: originally graded 8c
   ascents:
   - John Welford
@@ -158,12 +165,13 @@ The Bastard
       date: 20 July 1995
   - Steve McClure
       ascent: second
-      date: 
+      date: 1999?
 
 
 The Big Bang
   grade: 9a
   year: 1996
+  crag: Lower Pen Trwyn
   ascents:
   - Neil Carson
       ascent: first
@@ -174,6 +182,7 @@ The Big Bang
   - Emma Twyford
       ascent: third
       date: 2019
+      note: first British woman to climb 9a
   - Kieran Forrest
       ascent: fourth
       date: Sept 2020
@@ -181,6 +190,7 @@ The Big Bang
 Mutation
   grade: 9a
   year: 1998
+  crag: Raven Tor
   ascents:
   - Steve McClure
       ascent: first
@@ -190,6 +200,7 @@ Mutation
 Northern Lights
   grade: 9a
   year: 2000
+  crag: Kilnsey
   ascents:
   - Steve McClure
       ascent: first
@@ -204,6 +215,7 @@ Northern Lights
 Rainshadow
   grade: 9a
   year: 2003
+  crag: Malham Cove
   ascents:
   - Steve McClure
       ascent: first
@@ -229,16 +241,20 @@ Rainshadow
   - Pete Dawson
       ascent: eighth
       date: Jun 2018
-  - Toby Roberts
+  - Buster Martin
       ascent: ninth
+      date: Jun 2018
+  - Toby Roberts
+      ascent: tenth
       date: Dec 2020
   - Josh Ibbertson
-      ascent: tenth
+      ascent: eleventh
       date: Dec 2020
 
 Hajj
   grade: 8c+
   year: 2004
+  crag: Raven Tor
   ascent: 
   - Steve McClure
       ascent: first
@@ -254,20 +270,22 @@ Violent New Breed
 Metalcore
   grade: 8c+
   year: 2007
+  crag: The Anvil
   ascents:
   - Dave Macleod
       ascent: first
-      date: 2007
+      date: May 2007
   - Malcolm Smith
       ascent: second
       date:
   - Alan Cassidy
       ascent: third
-      date: 
+      date: July 2011
 
 Overshadow
   grade: 9a+
   year: 2007
+  crag: Malham Cove
   ascents
     - Steve McClure
         ascent: first
@@ -279,6 +297,7 @@ Overshadow
 North Star
   grade: 9a
   year: 2008
+  crag: Kilnsey
   ascents:
     - Steve McClure, 20 May 2008
     - Adam Ondra, 2011
@@ -292,7 +311,7 @@ Stevolution
         date: 2009
     - Ryan Pasquill
         ascent: second
-        date:
+        date: 20??
 
 Blood Diamond
   grade: 8c+
@@ -305,26 +324,33 @@ Blood Diamond
 Hunger
   grade: 9a
   year: 2010
+  crag: The Anvil
   - Malcolm Smith
       ascent: first
       date: 7 July 2010
   - Will Bosi
       ascent: second
       date: April 2008
+  - Dave MacLeod
+      ascent: third
+      date: November 2019
 
 Meltdown
   grade: 8c+/9a
   year: 2012
+  crag: Tyll Mawr
   ascents:
     - James McHaffie
         ascent: first
         date: Jul 2012 
     - Ignacio Mulero
         ascent: second
+        date: May 2019
 
 King of Theives
   grade: 8c+
   year: 2014
+  crag: Hollywood Bowl
   ascents:
     - Jordan Buys
         ascent: 15 Sep 2014
@@ -333,15 +359,25 @@ King of Theives
 
 Brian
   grade: 8c+
-  year:
+  year: 2003
   ascents:
+  crag: Anstey's Cove
   - Ken Palmer
-  - Pete Dawson, 2 July 2017
-  - Luke Dawson, 29 Oct 2018
+      ascent: 2003
+  - Ellis Butler-Barker
+      ascent: second
+      date: April 2015
+  - Pete Dawson
+      ascent: third
+      date: 2 July 2017
+  - Luke Dawson
+      ascent: fourth
+      date: 29 Oct 2018
 
-Sabotage 2016
+Sabotage
   grade: 8c+
   year: 2016
+  crag: Malham Cove
   ascents:
   - Neil Gresham
       ascent: first
@@ -350,10 +386,21 @@ Sabotage 2016
       ascent: second
       date: 22 Sep 2020
 
+Rainman
+  grade: 9b
+  year: 2017
+  crag: Malham Cove
+  ascents:
+  - Steve McClure
+      ascent: first
+      date: 04 June 2017
+      notes: first British man to climb 9b. It took 128 days of effort spread over 7 years. Steve was 46 years old when he completed it.
+
 
 Fixation
   grade: 8c+
   year: 2020
+  crag: Malham Cove
   ascents:
   - Steve McClure
       ascent: first
