@@ -566,7 +566,8 @@
       "ascents": [
         {
           "climber": "Ken Palmer",
-          "ascent": 2003
+          "ascent": "first",
+          date: "2003"
         },
         {
           "climber": "Ellis Butler-Barker",
