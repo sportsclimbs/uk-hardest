@@ -212,6 +212,24 @@
      ascent: third
      date: 2017
 
+- route: Brian
+  grade: 8c+
+  year: 2003
+  crag: Anstey's Cove
+  ascents:
+   - climber: Ken Palmer
+     ascent: first
+     date: 2003
+   - climber: Ellis Butler-Barker
+     ascent: second
+     date: April 2015
+   - climber: Pete Dawson
+     ascent: third
+     date: 2 July 2017
+   - climber: Luke Dawson
+     ascent: fourth
+     date: 29 Oct 2018
+
 - route: Rainshadow
   grade: 9a
   year: 2003
@@ -222,7 +240,7 @@
      date: 2003
    - climber: Adam Ondra
      ascent: second
-     date: 2011
+     date: May 2011
    - climber: Jordan Buys
      ascent: third
      date: May 2013
@@ -234,7 +252,7 @@
      date: 8 Sept 2015
    - climber: Will Bosi
      ascent: sixth
-     date: 2016
+     date: May 2016
    - climber: Ryan Pasquill
      ascent: seventh
      date: May 2018
@@ -250,15 +268,6 @@
    - climber: Josh Ibbertson
      ascent: eleventh
      date: Dec 2020
-
-- route: Hajj
-  grade: 8c+
-  year: 2004
-  crag: Raven Tor
-  ascent:
-    - climber: Steve McClure
-      ascent: first
-      date: 2004
 
 - route: Violent New Breed
   grade: 9a+
@@ -277,7 +286,7 @@
      date: May 2007
    - climber: Malcolm Smith
      ascent: second
-     date:
+     date: 2007
    - climber: Alan Cassidy
      ascent: third
      date: July 2011
@@ -289,10 +298,10 @@
   ascents:
    - climber: Steve McClure
      ascent: first
-     year: 2007
+     date: 28 May 2007
    - climber: Adam Ondra
      ascent: second
-     year: 2011
+     date: May 2011
 
 - route: North Star
   grade: 9a
@@ -301,7 +310,7 @@
   ascents:
    - climber: Steve McClure
      ascent: first
-     date: 20 May 200
+     date: 20 May 2008
    - climber: Adam Ondra
      ascent: second
      date: 2011
@@ -315,7 +324,7 @@
      date: 2009
    - climber: Ryan Pasquill
      ascent: second
-     date: 20??
+     date: 201?
 
 - route: Blood Diamond
   grade: 8c+
@@ -358,26 +367,11 @@
   crag: Hollywood Bowl
   ascents:
    - climber: Jordan Buys
-     ascent: 15 Sep 2014
+     ascent: first
+     date: 15 Sep 2014
    - climber: Luke Dawson
-     ascent: 12 Sep 2020 
-
-- route: Brian
-  grade: 8c+
-  year: 2003
-  crag: Anstey's Cove
-  ascents:
-   - climber: Ken Palmer
-     ascent: 2003
-   - climber: Ellis Butler-Barker
      ascent: second
-     date: April 2015
-   - climber: Pete Dawson
-     ascent: third
-     date: 2 July 2017
-   - climber: Luke Dawson
-     ascent: fourth
-     date: 29 Oct 2018
+     date: 12 Sep 2020 
 
 - route: Sabotage
   grade: 8c+
